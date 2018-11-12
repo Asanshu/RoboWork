@@ -1,5 +1,5 @@
 code {
 
-Var=bob
+Var=bobcode
 
 }
